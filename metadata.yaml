@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41579'
     url: http://www.gutenberg.org/2009/agents/41579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45434#Der-Untergang-der-Deutschen-JudenEine-Volkswirtschaftliche-Studie
 gutenberg_issued: '2014-04-18'
 gutenberg_type: Text
 identifiers:
